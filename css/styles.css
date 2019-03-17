@@ -12,10 +12,16 @@ body {
 }
 p {
   color: white;
-  font-size: 20px;
+  font-size: 26px;
 }
-h1,h2 {
-color: blue;
+h1 {
+  color: Red;
+  text-align: center;
+}
+h2,h3, h4, h5 {
+color: red;
+font-size: 20px;
+text-align: justify;
 }
 
 
@@ -25,8 +31,6 @@ nav {
   height: 100px;
   background-color: #fff;
 }
-
-
 ul {
 margin-left: 60px;
 }
@@ -47,5 +51,9 @@ color: #1e1e1e;
 padding: 0 20px;
 }
 ul li a:hover {
-color: red;
+color: blue;
+}
+ol{
+  color: white;
+  text-color: white;
 }
