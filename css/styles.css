@@ -37,14 +37,14 @@ ul{
 margin-left: 60px;
 }
 
-ul,li{
+ul li{
   list-style: none;
   display: inline-block;
   float:left;
   line-height: 100px;
 }
 
-ul,li,a{
+ul li a{
   display: block;
 text-decoration: none;
 font-size: 14px;
@@ -52,7 +52,7 @@ font-family: arial;
 color: #1e1e1e;
 padding: 0 20px;
 }
-ul,li,a:hover{
+ul li a:hover{
 color: blue;
 }
 ol{
