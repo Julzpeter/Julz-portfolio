@@ -5,7 +5,7 @@
 ## Setup/Installation Requirements
 Availability of internet across all media devices
 ## Known Bugs
-{There are no current bugs}
+There are no current bugs
 ## Technologies Used
 {HTML and CSS for styling the headings and paragraphs}
 ## Support and contact details
